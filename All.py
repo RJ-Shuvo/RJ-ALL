@@ -418,7 +418,7 @@ class Main:
 		print("╭────────────────────── INFORMATION   AUTHOR ──────────────────────╮")
 		print("│ \033[32m╭──────────────────────────────────────────────────────────╮ \33[m│")
 		print("│ \033[32m│            RJ Shuvo                          │ \33[m│")
-		print("│ \033[32m│                 I Love Allah                   
+		print("│ \033[32m│                               
                                                                                          │ \33[m│")
 		print("│ \033[32m│             DONT FORGRT ALLAH                            │\33[m │")
 		print("│ \033[32m│   ─━㋱Auther : RJ Shuvo   WhatsApp : 01950908973㋱━─   │ \33[m│")
